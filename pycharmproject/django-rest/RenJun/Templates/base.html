@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>This is django project</title>
+</head>
+
+<body>
+
+{% include 'navigation.html' %}
+<h1>上边</h1>
+{% block content %}
+ replace me
+{% endblock %}
+<h1>下边</h1>
+</body>
+</html>

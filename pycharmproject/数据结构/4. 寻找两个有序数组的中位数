@@ -1,0 +1,23 @@
+class Solution(object):
+    def maxArea(self, height):
+        """
+        :type height: List[int]
+        :rtype: int
+        """
+        left=0
+        right=len(height)
+        max1=0
+        while right-left>1:
+            target = (right-left-1) * min(height[left],height[right-1])
+            if target>max1:
+                max1=target
+            if height[left]<height[right-1]:
+                left+=1
+            else:
+                right-=1
+
+        return max1
+a=Solution()
+c=[2,3,4,5,18,17,6]
+b=a.maxArea(c)
+print(b)

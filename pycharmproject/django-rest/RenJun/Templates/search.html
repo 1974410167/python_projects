@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>search</title>
+</head>
+<body>
+
+{% for i in abc %}
+<li><a href="{{ i.get_absolute_url }}">{{ i.pk }}</a></li>
+<li><a>{{ i.name }}</a></li>
+<li><a>{{ i.address }}</a></li>
+
+<br>
+{% endfor %}
+</body>
+</html>

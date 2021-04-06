@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="516d1478-b5e2-4109-b1ba-33dc86ce7386" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YqPKgjPFmy86uCaf7s9LO0b7UU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../django-rest" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.emmet" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\pycharm\pycharmproject\hhtml\css" />
+      <recent name="D:\pycharm\pycharmproject\hhtml\html1" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="516d1478-b5e2-4109-b1ba-33dc86ce7386" name="Default Changelist" comment="" />
+      <created>1574770568438</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574770568438</updated>
+      <workItem from="1574770569619" duration="2461000" />
+      <workItem from="1574855094941" duration="32000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2493000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2143" y="75" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584022483413">
+      <screen x="1920" y="7" width="1536" height="832" />
+    </state>
+    <state x="2143" y="75" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.7.1536.832/0.0.1920.1040@1920.7.1536.832" timestamp="1584022483413" />
+    <state x="2434" y="222" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584082224255">
+      <screen x="1920" y="7" width="1536" height="832" />
+    </state>
+    <state x="2434" y="222" key="#com.intellij.fileTypes.FileTypeChooser/1920.7.1536.832/0.0.1920.1040@1920.7.1536.832" timestamp="1584082224255" />
+    <state x="2469" y="175" key="FileChooserDialogImpl" timestamp="1584433154889">
+      <screen x="1920" y="7" width="1536" height="832" />
+    </state>
+    <state x="2469" y="175" key="FileChooserDialogImpl/1920.7.1536.832/0.0.1920.1040@1920.7.1536.832" timestamp="1584433154889" />
+    <state x="2190" y="62" key="SettingsEditor" timestamp="1584022648137">
+      <screen x="1920" y="7" width="1536" height="832" />
+    </state>
+    <state x="2190" y="62" key="SettingsEditor/1920.7.1536.832/0.0.1920.1040@1920.7.1536.832" timestamp="1584022648137" />
+    <state x="2369" y="244" key="com.intellij.ide.util.TipDialog" timestamp="1584433143327">
+      <screen x="1920" y="7" width="1536" height="832" />
+    </state>
+    <state x="2369" y="244" key="com.intellij.ide.util.TipDialog/1920.7.1536.832/0.0.1920.1040@1920.7.1536.832" timestamp="1584433143327" />
+    <state x="2351" y="108" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1583667105958">
+      <screen x="1920" y="7" width="1536" height="832" />
+    </state>
+    <state x="2351" y="108" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.7.1536.832/0.0.1920.1040@1920.7.1536.832" timestamp="1583667105958" />
+    <state x="2351" y="160" width="672" height="678" key="search.everywhere.popup" timestamp="1584082337833">
+      <screen x="1920" y="7" width="1536" height="832" />
+    </state>
+    <state x="2351" y="160" width="672" height="678" key="search.everywhere.popup/1920.7.1536.832/0.0.1920.1040@1920.7.1536.832" timestamp="1584082337833" />
+  </component>
+</project>
