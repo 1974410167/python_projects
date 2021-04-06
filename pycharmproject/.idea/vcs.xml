@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/flask/microblog" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/my_blog" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/代码仓库/fbone" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/代码仓库/flaskblog" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/代码仓库/flasky/flasky" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/代码仓库/spider_doouyin/amemv-crawler" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/爬虫/python 爬虫" vcs="Git" />
+  </component>
+</project>

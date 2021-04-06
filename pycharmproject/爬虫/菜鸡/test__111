@@ -1,0 +1,52 @@
+
+<html>
+<head>
+<title></title>
+<link href="/uniconf/style/dmc.css" rel="stylesheet" type="text/css">
+<link href="/uniconf/style/style2.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+</head>
+<body>
+<center>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+  <TR>
+    <TD vAlign=top align=middle>
+      <TABLE cellSpacing=0 cellPadding=0 width="95%" border=0>
+        <TR>
+          <TD height=15></TD>
+        </TR>
+      </TABLE>
+      <TABLE cellSpacing=0 cellPadding=0 width="95%" border=0>
+          <TR>
+            <TD vAlign=bottom align=right width=7><IMG height=24 src="/uniconf/images/admin_back01.gif" width=7></TD>
+            <TD class="text02" background="/uniconf/images/admin_back02.gif" align="left"><IMG height=7 src="/image/search_title.gif" width=12>
+              <STRONG></STRONG></TD>
+            <TD vAlign=bottom align=left width=9><IMG height=24 src="/uniconf/images/admin_back03.gif" width=9></TD>
+          </TR>
+          <TR align=right>
+            <TD align=right background="/uniconf/images/admin_back04_left.gif"></TD>
+            <TD align="center">
+
+<center>
+<br>
+<p></p>
+<p>Unknow Error
+</p>
+<p>
+
+</p>
+</center>
+            </TD>
+            <TD align=left background="/uniconf/images/admin_back04_right.gif"></TD>
+          </TR>
+          <TR>
+            <TD align=right><IMG src="/uniconf/images/admin_back05.gif" width=7></TD>
+            <TD background="/uniconf/images/admin_back06.gif"></TD>
+            <TD vAlign=top align=left><IMG src="/uniconf/images/admin_back07.gif" width=9></TD>
+          </TR>
+      </TABLE>
+    </TD>
+  </TR>
+</TABLE>
+</BODY>
+</html>

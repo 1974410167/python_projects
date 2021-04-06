@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6219ca41-7a4a-4d71-93b6-53056326ae19" name="Default Changelist" comment="first_test" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/leetcode$test.coverage" NAME="test Coverage Results" MODIFIED="1555993490602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="leetcode">
+      <favorite_root url="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/57359179/lxml/etree/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+    </favorites_list>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Stub" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>C:\Users\葛浩源\PycharmProjects\爬虫</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/python 爬虫" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="1974410167" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="first_put_code" />
+  </component>
+  <component name="ProjectId" id="1Vn0he7XfeQ9z5uLDbRGMvDKWOB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hhtml" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="ReadonlyStatusHandler">
+    <option name="SHOW_DIALOG" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\葛浩源\PycharmProjects\爬虫" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\葛浩源\PycharmProjects\爬虫" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.homework">
+    <configuration name="教务系统" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/教务系统.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="菱形继承" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fluently_python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fluently_python/菱形继承.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="格式化输出" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/格式化输出.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="格式化输出" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/格式化输出.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="homework" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="top__movies" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/top__movies.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="yiele_from" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fluently_python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fluently_python/yiele_from.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.homework" />
+        <item itemvalue="Python.yiele_from" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.教务系统" />
+        <item itemvalue="Python.top__movies" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6219ca41-7a4a-4d71-93b6-53056326ae19" name="Default Changelist" comment="" />
+      <created>1555136063488</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555136063488</updated>
+      <workItem from="1557910344946" duration="610000" />
+      <workItem from="1557925201831" duration="13000" />
+      <workItem from="1558331589666" duration="3916000" />
+      <workItem from="1558335574973" duration="1352000" />
+      <workItem from="1558336948151" duration="8316000" />
+      <workItem from="1558435277384" duration="9558000" />
+      <workItem from="1558497477944" duration="1021000" />
+      <workItem from="1558505476450" duration="602000" />
+      <workItem from="1558514735679" duration="1121000" />
+      <workItem from="1558603632636" duration="11172000" />
+      <workItem from="1558697286441" duration="6592000" />
+      <workItem from="1558762144420" duration="3734000" />
+      <workItem from="1558937271009" duration="11954000" />
+      <workItem from="1559024021338" duration="664000" />
+      <workItem from="1559127293293" duration="7070000" />
+      <workItem from="1559216236345" duration="5531000" />
+      <workItem from="1559297602147" duration="1104000" />
+      <workItem from="1559535674067" duration="20143000" />
+      <workItem from="1559646162071" duration="6778000" />
+      <workItem from="1559897014451" duration="1762000" />
+      <workItem from="1559905666122" duration="599000" />
+      <workItem from="1560078291205" duration="431000" />
+      <workItem from="1560143833847" duration="7461000" />
+      <workItem from="1560227902023" duration="8856000" />
+      <workItem from="1560245886858" duration="1251000" />
+      <workItem from="1560251376879" duration="17000" />
+      <workItem from="1560252280291" duration="1554000" />
+      <workItem from="1560315656260" duration="7010000" />
+      <workItem from="1560323183785" duration="5603000" />
+      <workItem from="1560328807046" duration="1975000" />
+      <workItem from="1560349371777" duration="192000" />
+      <workItem from="1560416200020" duration="10197000" />
+      <workItem from="1560477957260" duration="1487000" />
+      <workItem from="1560501828795" duration="1266000" />
+      <workItem from="1560504698306" duration="2226000" />
+      <workItem from="1560511637856" duration="237000" />
+      <workItem from="1560512110142" duration="13000" />
+      <workItem from="1560953045458" duration="4394000" />
+      <workItem from="1561087266362" duration="599000" />
+      <workItem from="1561644240744" duration="810000" />
+      <workItem from="1561647537444" duration="1144000" />
+      <workItem from="1562479557809" duration="5914000" />
+      <workItem from="1562559011524" duration="3778000" />
+      <workItem from="1562653630126" duration="812000" />
+      <workItem from="1562778147401" duration="3771000" />
+      <workItem from="1563433093022" duration="792000" />
+      <workItem from="1563435198788" duration="510000" />
+      <workItem from="1563963567198" duration="5634000" />
+      <workItem from="1564283471043" duration="3906000" />
+      <workItem from="1564462663417" duration="599000" />
+      <workItem from="1564666421058" duration="610000" />
+      <workItem from="1564894912157" duration="1373000" />
+      <workItem from="1564906801818" duration="3817000" />
+      <workItem from="1564974145356" duration="2022000" />
+      <workItem from="1564976248405" duration="27000" />
+      <workItem from="1566524331626" duration="605000" />
+      <workItem from="1567169349970" duration="14000" />
+      <workItem from="1567423087294" duration="716000" />
+      <workItem from="1567599692459" duration="1558000" />
+      <workItem from="1567601691047" duration="2128000" />
+      <workItem from="1567678406899" duration="4195000" />
+      <workItem from="1567941143962" duration="5644000" />
+      <workItem from="1568018240637" duration="2400000" />
+      <workItem from="1568103062465" duration="45000" />
+      <workItem from="1568109399762" duration="410000" />
+      <workItem from="1568882128677" duration="367000" />
+      <workItem from="1570862438217" duration="525000" />
+      <workItem from="1571373810371" duration="562000" />
+      <workItem from="1571381186699" duration="4235000" />
+      <workItem from="1571403942843" duration="1372000" />
+      <workItem from="1571467285919" duration="1344000" />
+      <workItem from="1571638334240" duration="1717000" />
+      <workItem from="1571648839806" duration="7832000" />
+      <workItem from="1573887767925" duration="10090000" />
+      <workItem from="1574058097528" duration="20816000" />
+      <workItem from="1574135864168" duration="10351000" />
+      <workItem from="1574255072598" duration="128000" />
+      <workItem from="1574322386593" duration="1973000" />
+      <workItem from="1574476505657" duration="769000" />
+      <workItem from="1574486193137" duration="816000" />
+      <workItem from="1574590711587" duration="68000" />
+      <workItem from="1575270216182" duration="677000" />
+      <workItem from="1575372113998" duration="520000" />
+      <workItem from="1575684246071" duration="1264000" />
+    </task>
+    <task id="LOCAL-00001" summary="first_test">
+      <created>1571467966184</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1571467966184</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="277041000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first_test" />
+    <option name="LAST_COMMIT_MESSAGE" value="first_test" />
+    <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2538" y="201" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583910566064">
+      <screen x="1920" y="7" width="1536" height="832" />
+    </state>
+    <state x="773" y="243" key="#com.intellij.fileTypes.FileTypeChooser/1920.7.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1582190397157" />
+    <state x="2538" y="201" key="#com.intellij.fileTypes.FileTypeChooser/1920.7.1536.832/0.0.1920.1040@1920.7.1536.832" timestamp="1583910566064" />
+    <state x="2469" y="175" key="FileChooserDialogImpl" timestamp="1583923529061">
+      <screen x="1920" y="7" width="1536" height="832" />
+    </state>
+    <state x="686" y="210" key="FileChooserDialogImpl/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1577992806854" />
+    <state x="2469" y="168" key="FileChooserDialogImpl/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1577873697370" />
+    <state x="686" y="210" key="FileChooserDialogImpl/1920.7.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1582715418068" />
+    <state x="2469" y="175" key="FileChooserDialogImpl/1920.7.1536.832/0.0.1920.1040@1920.7.1536.832" timestamp="1583923529061" />
+    <state width="1515" height="220" key="GridCell.Tab.0.bottom" timestamp="1583922814998">
+      <screen x="1920" y="7" width="1536" height="832" />
+    </state>
+    <state width="1498" height="305" key="GridCell.Tab.0.bottom/1920.-1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1580387034624" />
+    <state width="1515" height="262" key="GridCell.Tab.0.bottom/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1577877660047" />
+    <state width="1194" height="114" key="GridCell.Tab.0.bottom/1920.7.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1582554399938" />
+    <state width="1515" height="220" key="GridCell.Tab.0.bottom/1920.7.1536.832/0.0.1920.1040@1920.7.1536.832" timestamp="1583922814998" />
+    <state width="1515" height="220" key="GridCell.Tab.0.center" timestamp="1583922814998">
+      <screen x="1920" y="7" width="1536" height="832" />
+    </state>
+    <state width="1498" height="305" key="GridCell.Tab.0.center/1920.-1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1580387034623" />
+    <state width="1515" height="262" key="GridCell.Tab.0.center/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1577877660047" />
+    <state width="1194" height="114" key="GridCell.Tab.0.center/1920.7.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1582554399938" />
+    <state width="1515" height="220" key="GridCell.Tab.0.center/1920.7.1536.832/0.0.1920.1040@1920.7.1536.832" timestamp="1583922814998" />
+    <state width="1515" height="220" key="GridCell.Tab.0.left" timestamp="1583922814998">
+      <screen x="1920" y="7" width="1536" height="832" />
+    </state>
+    <state width="1498" height="305" key="GridCell.Tab.0.left/1920.-1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1580387034623" />
+    <state width="1515" height="262" key="GridCell.Tab.0.left/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1577877660047" />
+    <state width="1194" height="114" key="GridCell.Tab.0.left/1920.7.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1582554399938" />
+    <state width="1515" height="220" key="GridCell.Tab.0.left/1920.7.1536.832/0.0.1920.1040@1920.7.1536.832" timestamp="1583922814998" />
+    <state width="1515" height="220" key="GridCell.Tab.0.right" timestamp="1583922814998">
+      <screen x="1920" y="7" width="1536" height="832" />
+    </state>
+    <state width="1498" height="305" key="GridCell.Tab.0.right/1920.-1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1580387034623" />
+    <state width="1515" height="262" key="GridCell.Tab.0.right/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1577877660047" />
+    <state width="1194" height="114" key="GridCell.Tab.0.right/1920.7.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1582554399938" />
+    <state width="1515" height="220" key="GridCell.Tab.0.right/1920.7.1536.832/0.0.1920.1040@1920.7.1536.832" timestamp="1583922814998" />
+    <state width="1194" height="192" key="GridCell.Tab.1.bottom" timestamp="1582197576301">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="343" key="GridCell.Tab.1.bottom/1920.-1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1580384619168" />
+    <state width="1194" height="192" key="GridCell.Tab.1.bottom/1920.7.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1582197576301" />
+    <state width="1515" height="257" key="GridCell.Tab.1.bottom/1920.7.1536.832/0.0.1920.1040@1920.7.1536.832" timestamp="1582039130664" />
+    <state width="1194" height="192" key="GridCell.Tab.1.center" timestamp="1582197576301">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="343" key="GridCell.Tab.1.center/1920.-1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1580384619168" />
+    <state width="1194" height="192" key="GridCell.Tab.1.center/1920.7.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1582197576301" />
+    <state width="1515" height="257" key="GridCell.Tab.1.center/1920.7.1536.832/0.0.1920.1040@1920.7.1536.832" timestamp="1582039130664" />
+    <state width="1194" height="192" key="GridCell.Tab.1.left" timestamp="1582197576301">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="343" key="GridCell.Tab.1.left/1920.-1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1580384619168" />
+    <state width="1194" height="192" key="GridCell.Tab.1.left/1920.7.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1582197576301" />
+    <state width="1515" height="257" key="GridCell.Tab.1.left/1920.7.1536.832/0.0.1920.1040@1920.7.1536.832" timestamp="1582039130664" />
+    <state width="1194" height="192" key="GridCell.Tab.1.right" timestamp="1582197576301">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="343" key="GridCell.Tab.1.right/1920.-1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1580384619168" />
+    <state width="1194" height="192" key="GridCell.Tab.1.right/1920.7.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1582197576301" />
+    <state width="1515" height="257" key="GridCell.Tab.1.right/1920.7.1536.832/0.0.1920.1040@1920.7.1536.832" timestamp="1582039130664" />
+    <state x="2190" y="62" key="SettingsEditor" timestamp="1583910235353">
+      <screen x="1920" y="7" width="1536" height="832" />
+    </state>
+    <state x="338" y="69" key="SettingsEditor/1920.-1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1580386766482" />
+    <state x="338" y="69" key="SettingsEditor/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1577992770664" />
+    <state x="2190" y="55" key="SettingsEditor/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1577873854036" />
+    <state x="2190" y="62" key="SettingsEditor/1920.7.1536.832/0.0.1920.1040@1920.7.1536.832" timestamp="1583910235353" />
+    <state x="2369" y="244" key="com.intellij.ide.util.TipDialog" timestamp="1583923524594">
+      <screen x="1920" y="7" width="1536" height="832" />
+    </state>
+    <state x="561" y="296" key="com.intellij.ide.util.TipDialog/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1577992763464" />
+    <state x="2369" y="237" key="com.intellij.ide.util.TipDialog/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1577964178926" />
+    <state x="561" y="296" key="com.intellij.ide.util.TipDialog/1920.7.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1582715399656" />
+    <state x="2369" y="244" key="com.intellij.ide.util.TipDialog/1920.7.1536.832/0.0.1920.1040@1920.7.1536.832" timestamp="1583923524594" />
+    <state x="0" y="41" width="1938" height="1102" maximized="true" key="dock-window-1" timestamp="1582089213522">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1920" y="32" width="1550" height="881" key="dock-window-1/1920.-1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1580386929947" />
+    <state x="159" y="64" width="1531" height="813" key="dock-window-1/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1577874180329" />
+    <state x="0" y="41" width="1938" height="1102" maximized="true" key="dock-window-1/1920.7.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1582089213522" />
+    <state x="1920" y="40" width="1550" height="881" key="dock-window-1/1920.7.1536.832/0.0.1920.1040@1920.7.1536.832" timestamp="1582036264478" />
+    <state x="2351" y="160" width="672" height="678" key="search.everywhere.popup" timestamp="1582038255030">
+      <screen x="1920" y="7" width="1536" height="832" />
+    </state>
+    <state x="2351" y="160" width="672" height="678" key="search.everywhere.popup/1920.7.1536.832/0.0.1920.1040@1920.7.1536.832" timestamp="1582038255030" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

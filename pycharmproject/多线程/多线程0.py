@@ -1,0 +1,31 @@
+
+
+"""
+python包
+1.thread:有问题，不好用，python改成了__thread
+2.threading:通行的包
+——多线程1：顺序执行，耗费时间
+——多线程2：改用多线程节约时间
+——多线程3：用threading包，多线程，传入参数，
+             用start()来启动多线程
+——多线程4：用threading包，用join()来等待多线程执行完成
+threading的使用
+——1.t=threading.Thread(target=xxx,args=(xxx,))
+     target为函数名，args为参数，仅有一个参数后面也需要用
+     逗号隔开
+——2.t.start()：启动多线程
+——3.t.join()：等待多线程执行完成
+——4.守护线程—daemon
+      -如果在程序中将子线程设置成守护线程，则子线程会在主线程结束
+      的时候自动推出
+      -一般认为，守护线程不重要或者不允许离开主线程独自运行
+      -守护线程能否有效跟环境变量有关
+线程常用属性
+——1.threading.currentThread:返回当前线程变量
+——2.threading.enumerate:返回一个正在运行的线程的list，正在运行
+    是指线程启动后结束之前
+——3.threading.activeCount:返回正在运行的线程数量，效果跟
+    len(threading.enumerate)一样
+——4.thr.setname:给线程起名字
+——5.thr.getname:得到线程的名字
+"""
